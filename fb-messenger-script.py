@@ -257,7 +257,7 @@ def plot_total_per_year(result):
     fig.yaxis.axis_label_text_font_style= "bold"
 
     # x axis styling
-    fig.xaxis.axis_label = "Sender"
+    fig.xaxis.axis_label = "Year"
     fig.xaxis.axis_label_text_font_size = "12pt"
     fig.xaxis.axis_label_text_font_style = "bold"
 
