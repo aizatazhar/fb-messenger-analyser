@@ -11,7 +11,7 @@ Python script that analyses your Facebook messages and visualises the data as in
 ## Installation ##
 
 **Requirements**
-* [Python 3](https://docs.bokeh.org/en/latest/docs/installation.html)
+* [Python 3](https://www.python.org/downloads/)
 * [Bokeh](https://docs.bokeh.org/en/latest/docs/installation.html)
 
 **Setup**
